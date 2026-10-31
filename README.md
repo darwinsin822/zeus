@@ -6,13 +6,13 @@
 <img src="./assets/zeus.jpg" alt="Zeus — Soberano Olímpico y Juez Supremo" width="380px" style="border-radius: 12px; margin: 16px 0; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Compatible](https://img.shields.io/badge/Antigravity_Skill-Verified-blue.svg)](https://github.com/darwinsin822/zeus)
+[![Compatible](https://img.shields.io/badge/Antigravity%202.0_Skill-Verified-blue.svg)](https://github.com/darwinsin822/zeus)
 [![Protocol](https://img.shields.io/badge/Architecture-4_Pilares_Soberanos-gold.svg)](#-el-protocolo-de-los-4-pilares-soberanos)
 [![CI](https://img.shields.io/badge/CI-Passing-brightgreen.svg)](scripts/ci.sh)
 
 </div>
 
-**Zeus** es la meta-skill suprema de arquitectura y descomposición profunda de tareas para **Google Antigravity**. Rechaza la generación de texto superficial y la inflación artificial de especificaciones, rigiéndose por el principio inquebrantable: **profundidad soberana por encima de volumen**.
+**Zeus** es la meta-skill suprema de arquitectura y descomposición profunda de tareas para **Google Antigravity 2.0**. Rechaza la generación de texto superficial y la inflación artificial de especificaciones, rigiéndose por el principio inquebrantable: **profundidad soberana por encima de volumen**.
 
 ---
 
@@ -29,7 +29,7 @@ Cuando se le somete un objetivo técnico, Zeus responde a las cuatro preguntas c
 
 ## 🚀 Instalación y Despliegue Rápido
 
-Para instalar la skill en tu entorno local de Google Antigravity:
+Para instalar la skill en tu entorno local de Google Antigravity 2.0:
 
 ```bash
 git clone https://github.com/darwinsin822/zeus.git
